@@ -19,6 +19,7 @@ pids
 lib-cov
 
 #jest and git stuff
+.git
 /coverage
 coverage/
 
